@@ -1,0 +1,23 @@
+@avrdude
+/bin/mpide-0150-linux32-20150820/hardware/tools/avrdude
+
+@hexfile
+/home/ok/voodooboard/sw.hex
+
+@wifihex
+/home/ok/voodooboard/wifi.hex
+
+@ssid
+secret cow society
+
+@pw
+xxxxx
+
+@ip
+192.168.50.111
+
+@askconnection
+0
+
+@transport
+tcp

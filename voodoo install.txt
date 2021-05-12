@@ -1,0 +1,14 @@
+debs spiritWhisper:
+	serialpy
+    glob python lib
+	mpide
+	avrdude van pic
+	
+debs udp communication:
+	matplotlib
+	numpy
+	
+	rdp voor peucker
+
+add user to dial out group
+	sudo gpasswd --add ok dialout
